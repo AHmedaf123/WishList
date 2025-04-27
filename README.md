@@ -42,6 +42,3 @@ Output:
 Full Working Demo
 ![CRUD](https://github.com/chavarera/Django-CRUD/blob/master/img/FirstApp.gif)
 
-
-## Contributor
-[Ravishankar  Chavare](http://github.com/chavarera)
